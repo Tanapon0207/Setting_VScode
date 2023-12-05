@@ -5,7 +5,7 @@
 3.Files
 4.Exclude
 5.ลบไฟล์ **/.git ออก
-6.ลบไฟล์ git ที่บา explorer
+6.ลบไฟล์ git ที่บา explorer (ลบ .git ให้หมดเเล้วค่อยลงใหม่)
 7.ทำการ git init ใหม่
 
 
